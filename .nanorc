@@ -1,0 +1,15 @@
+set mouse
+set autoindent
+set linenumbers
+set boldtext
+set atblanks
+set constantshow
+set emptyline
+set indicator
+set minibar
+set minicolor black,white
+set mouse
+set nohelp
+set positionlog
+set tabsize 4
+
